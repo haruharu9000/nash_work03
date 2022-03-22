@@ -28,12 +28,14 @@ Node.js 16.14.0
 
 Composer 2.2.9
 
-Dockey Dockey 20.10.13
+Dockey Desktop 20.10.13
 
 MySQL 5.7.34
 
 Laravel Sail
 
 ## 参考資料
+
+Qiita
 
 https://qiita.com/uehatsu/items/98b258bddb961d01627a
