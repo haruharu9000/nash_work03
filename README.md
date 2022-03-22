@@ -10,9 +10,9 @@ memory 8GB
 
 SSD 256GB
 
-8coreCPU 7コアcore
+8coreCPU 7coreGPU
 
-16coreNeural Engine
+16coreNeuralEngine
 
 ## 実行環境
 
